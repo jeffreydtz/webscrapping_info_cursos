@@ -1,0 +1,93 @@
+Curso 1: Python CoderHouse
+Precio: $ 123.333 ARS
+Temario: Clase 1
+Introducción a programar con Python+ Onboarding
+Clase 2
+Números y cadenas de caracteres
+Clase 3
+Listas y tuplas
+Clase 4
+Operadores básicos y expresiones anidadas
+Clase 5
+Controladores de flujo I
+Clase 6
+Controladores de flujo II
+Clase 7
+Conjuntos y diccionarios
+Clase 8
+Métodos de colecciones
+Clase 9
+Manejo de archivos y datos
+Clase 10
+Funciones I
+Clase 11
+Funciones II
+Clase 12
+Excepciones
+Clase 13
+Programación orientada a objetos I
+Clase 14
+Programación orientada a objetos II
+Clase 15
+Herencias
+Clase 16
+Scripts, módulos y paquetes
+Clase 17
+Git-GitHub
+Clase 18
+Django - Portfolio parte I
+Clase 19
+Portfolio parte II
+Clase 20
+Playground intermedio parte I
+Clase 21
+Playground intermedio parte II
+Clase 22
+Playground intermedio parte III
+Clase 23
+Playground avanzado parte I
+Clase 24
+Playground avanzado parte II
+Clase 25
+Playground avanzado parte III
+Clase 26
+¿Y ahora qué?
+
+
+
+Curso 2: Python ITMaster
+Precio: 59940.0
+Temario: Plan de Estudios
+La carrera consta de tres niveles que pueden cursarse independientemente o juntos
+Nivel 1: Aprender a Programar con Python
+Introducción a la Programación
+Qué es un lenguaje
+Usando Python para aprender a programar
+Programando en una computadora
+Programando en un celular
+Variables
+Sentencias
+Instrucciones condicionales y de flujo
+Bucles while y for
+Funciones
+Manejo de colecciones
+Nivel 2: Fundamentos de Objetos
+Pensando en Objetos
+Trabajando con objetos
+Usando encapsulación y constructores
+Conceptos avanzados de orientación a objetos
+Manejando errores
+Sintaxis y Clases
+Encapsulamiento y Polimorfismo
+Lógica y Algoritmos
+Excepciones
+Pequeñas aplicaciones de escritorio
+Nivel 3: Datos y Machine Learning
+Trabajando con archivos
+Descargando contenido de internet
+Manipulando formato JSON
+Usando librerías externas
+Introducción a Machine Learning con Python
+Introducción a Data Science con Python
+Proyectos de manipulación de datos con datos reales
+RECIBÍ EL TEMARIO DETALLADO
